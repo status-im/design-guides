@@ -6,7 +6,7 @@
 
 [Download Status Logo .svg](https://raw.githubusercontent.com/status-im/design-guides/master/status-logo.svg)
 
-[Download Status Logo (Symbol) .svg](https://github.com/status-im/design-guides/blob/master/status-logo-symbol.svg)
+[Download Status Logo (Symbol) .svg](https://raw.githubusercontent.com/status-im/design-guides/master/status-logo-symbol.svg)
 
 ## Color Palette
 
