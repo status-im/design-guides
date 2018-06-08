@@ -15,7 +15,8 @@
 
 #4360DF
 
-<img src="image.png" width="124" height="124" />
+<img src="https://github.com/status-im/design-guides/raw/master/marckup/image-blue-color%402x.png" width="124" height="124" />
+
 
 RGB: 67, 96, 223
 
@@ -26,6 +27,6 @@ Pantone 2726 C
 
 #EEF2F5
 
-<img src="image.png" width="124" height="124" />
+<img src="https://github.com/status-im/design-guides/raw/master/marckup/image-bg-color%402x.png" width="124" height="124" />
 
 RGB: 238, 242, 245
